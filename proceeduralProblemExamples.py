@@ -1,12 +1,32 @@
 ##!/usr/bin/env python
+'''
+                      ::::::
+                    :+:  :+:
+                   +:+   +:+
+                  +#++:++#++:::::::
+                 +#+     +#+     :+:
+                #+#      #+#     +:+
+               ###       ###+:++#""
+                         +#+
+                         #+#
+                         ###
+'''
 __author__ = "Alex Pujols"
-__copyright__ = "Copyright 2020, proceedural problems examples TIM-6110 wk2"
+__copyright__ = "TBD"
 __credits__ = ["Alex Pujols"]
 __license__ = "GPL"
-__version__ = "1.0.1"
+__version__ = "1.0"
 __maintainer__ = "Alex Pujols"
 __email__ = "alex.pujols@gmail.com"
 __status__ = "Prototype"
+
+'''
+Title	      :	{TBD}
+Date		  :	{XX-XX-20XX}
+Description   :	{TBD}
+Options	      :	{TBD}
+Notes	      :	{TBD}
+'''
 
 # Import modules declarations
 
